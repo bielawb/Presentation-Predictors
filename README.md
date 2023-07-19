@@ -7,5 +7,5 @@ Folders:
 - PPT - PowerPoint presentation
 - demos - demo script
 
-Actual C# code in [DemoPredictor Repo](https://github.com/bielawb/DemoPredicotr)
+Actual C# code in [DemoPredictor Repo](https://github.com/bielawb/DemoPredictor)
 Multiple branches with each step of the way to get to the final product.
